@@ -13,7 +13,7 @@ Press 's' to drop  the  block.
 
 Press 'p' to pause  the  game.
 
-How to run:
+Run:
 
 1. javac Tetris.java
 2. java Tetris
