@@ -15,4 +15,5 @@ Press 'p' to pause  the  game.
 Run:
 
 `javac Tetris.java`
+
 `java Tetris`
